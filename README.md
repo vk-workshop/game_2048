@@ -14,7 +14,7 @@ This project is a web-based implementation of the popular game 2048. The objecti
 
 You can view the live preview of the game here:
 
-[2048 Game Preview](https://vk-workshop.github.io/2048/)
+[2048 Game Preview](https://vk-workshop.github.io/game_2048/)
 
 ## Additional Launch Instructions
 
